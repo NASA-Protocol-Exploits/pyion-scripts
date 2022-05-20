@@ -1,10 +1,8 @@
 # :snake:  PyION Scripts
-PyION has proven to be a valuable tool in sending and receiving data across BP, LTP and CFDP inside the ION-DTN environment, as well as a limited and still experimental set of administrative functions to modify the ION configuration during runtime. This repository has been dedicated to PyION scripts made for the ION-DTN enviroment. 
-
-Please feel free to contribute anything you work on over the trimester!. :point_down: 
+This repository has been dedicated to PyION scripts made for the ION-DTN enviroment. Please feel free to contribute anything you work on over the trimester, and it will be included in the distributed image the following trimester!. :point_down:
 
 ## PyION Guides
-- **PyION Scripts
+- **PyION Scripts**
   - [Example Scripts](examples/index.md)
   - [Contributed Scripts](contributions/index.md)
 - **PyION Guides**
