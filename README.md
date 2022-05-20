@@ -1,7 +1,6 @@
 # :snake:  PyION Scripts
 This repository has been dedicated to PyION scripts made for the ION-DTN enviroment. Please feel free to contribute anything you work on over the trimester, and it will be included in the distributed image the following trimester!. :point_down:
 
-## PyION Guides
 - **PyION Scripts**
   - [Example Scripts](examples/index.md)
   - [Contributed Scripts](contributions/index.md)
