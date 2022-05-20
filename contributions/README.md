@@ -1,1 +1,1 @@
-Please add any Pyion scripts into this directory :)
+Please add any Pyion scripts into this directory.
