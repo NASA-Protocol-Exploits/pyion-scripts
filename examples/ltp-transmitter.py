@@ -1,3 +1,5 @@
+# Default Licklider Transmission Protocol Pyion Script (Transmitter)
+
 # General imports
 import pickle
 import numpy as np

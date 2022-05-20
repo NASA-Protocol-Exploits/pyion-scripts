@@ -1,3 +1,6 @@
+#Default Bundle Protocol Pyion Script (Transmitter)
+
+# Import module
 import pyion
 
 # Create a proxy to node 1 and attach to ION

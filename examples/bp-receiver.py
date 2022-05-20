@@ -1,3 +1,6 @@
+# Default Bundle Protocol Pyion Script (Receiver)
+
+# Import module
 import pyion
 
 # Create a proxy to node 2 and attach to it

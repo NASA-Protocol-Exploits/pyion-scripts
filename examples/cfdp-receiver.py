@@ -1,3 +1,6 @@
+# Default CFDP Pyion Script (Receiver)
+
+# Import module
 import pyion
 import pyion.constants as cst
 
