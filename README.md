@@ -3,7 +3,7 @@ This repository has been dedicated to PyION scripts made for the ION-DTN envirom
 
 - **PyION Scripts**
   - [Example Scripts](examples/)
-  - [Contributed Scripts](contributions/index.md)
+  - [Contributed Scripts](contributions/)
 - **PyION Guides**
   - [Installing PyION](https://github.com/NASA-Protocol-Exploits/handbook/blob/main/docs/learning/training/pyion/installing-pyion.md)
   - [Running PyION](https://github.com/NASA-Protocol-Exploits/handbook/blob/main/docs/learning/training/pyion/running-pyion.md)
